@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;  
+    box-sizing: border-box;
+}
+
+#headerContainer {
+    position: fixed;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100vw;
+    height: 5rem;
+    background-color: rgb(64, 149, 228);
+    
+}
+
+#footerDivider {
+    position: relative;
+    top: 5rem;
+    width: 100vw;
+    height: 0.1rem;
+    background-color: red;
+}
+
+#imgSimhall {
+    position: relative;
+    top: 5rem;
+}
+
+footer {
+    background-color: rgb(223, 223, 223);
+}
+
+.textBox {
+    position: relative;
+    top: 5rem;
+    padding: 2rem;
+}
