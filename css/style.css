@@ -22,7 +22,7 @@
     justify-content: space-around;
     align-items: center;
     height: 20rem;
-    background-color:rgb(64, 149, 228);
+    background-color:rgb(94, 177, 255);
     position: absolute;
     right: 0px;
     top: -20rem;
@@ -57,6 +57,7 @@
 
 footer {
     background-color: rgb(223, 223, 223);
+    height: calc
 }
 
 .textBox {
