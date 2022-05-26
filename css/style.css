@@ -22,7 +22,7 @@
     justify-content: space-around;
     align-items: center;
     height: 20rem;
-    background-color:rgb(94, 177, 255);
+    background: linear-gradient(180deg,  rgb(64, 149, 228), rgba(29, 133, 231, 0.301) );
     position: absolute;
     right: 0px;
     top: -20rem;
@@ -64,4 +64,21 @@ footer {
     position: relative;
     top: 5rem;
     padding: 2rem;
+}
+
+#imgSimhall {
+width: 100vw;
+height:auto;
+}
+
+#poolImg {
+    position: absolute;
+    left: 30vw;
+    width: 22rem;
+    height: 30rem;
+    top: 2rem;
+}
+
+h3 {
+    margin-top: 5rem ;
 }
